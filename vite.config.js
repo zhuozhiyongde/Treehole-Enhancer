@@ -16,8 +16,8 @@ export default defineConfig({
                 name: 'Treehole Enhancer',
                 version: '0.0.1',
                 icon: 'https://cdn.arthals.ink/Arthals-mcskin.png',
-                license: 'GPL-3.0 License'
-                
+                license: 'GPL-3.0 License',
+                supportURL: 'https://github.com/zhuozhiyongde/Treehole-Enhancer/issues'
             },
             build: {
                 externalGlobals: {
